@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Idearum</title>
+	<release-date>2018</release-date>
+	<website>https://tahutahustudios.wordpress.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac</name>
+			<link>http://www.gamesite.com/</link>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>http://www.steampowered.com/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>-</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>-</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>-</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>-</value>
+		</price>
+	</prices>
+
+	<description>
+	We are Eidos, a soul on its way to reach the perfect city of Atlantis. Eidos must learn about herself and the world in order to grow and reach the best version of herself. To enter Atlantis, you must pass a series of tests in the form of various puzzles. We are in a 3D environment inspired by games like Journey and ancient Greek philosophy. An experience of growth and beauty is the key element.
+	</description>
+	
+	<history>
+	Tahutahu Studios was born as the union of women from all around the world who fell in love with the project of its founder, Andrea Sacchi. Majority of them with previous experience in the industry and with a desire to start their own project. Tahutahu studios members are spread across Spain, the Czech Republic and Japan. With a remote organization, we are working hard to create Idearum. We finally met face to face during the third edition of Stugan in 2017.
+	</history>
+
+	<features>
+		<feature>
+		Idearum is based on the myths of Plato and other elements of Greek philosophy. Gradually gaining knowledge, Eidos will be able to solve different puzzles that will give her access to Atlantis.</feature>
+		<feature>We also give importance to psychology and some aspects of mental health, as we believe it is an issue that should be treated and normalized in our environment.</feature>
+		<feature>All the in-game music is done by Maggie Bigelow, who has 10 years of experience as a composer. Maggie's music is the final touch to the unique atmosphere of Atlantis.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Idearum Teaser</name>
+			<youtube>UYxSRfy5LfU</youtube>
+		</trailer>
+		<trailer>
+			<name>Stugan Application</name>
+			<youtube>3-BAotH8EMk</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Selected for Stugan 2017</description>
+			<info>July 2017</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Projects like this augur a great future in the video game scene</description>
+			<name>Stelladia</name>
+			<website>La Nave Sonda</website>
+			<link>http://lanavesonda.com/juegos/entrevista-andrea-sacchi-tahutahu-studios/</link>
+		</quote>
+		<quote>
+			<description>Interview in Mexican podcast "Detrás del Pixel</description>
+			<name>Mario Carballo</name>
+			<website>Detrás del Pixer</website>
+			<link>https://ellugar.co/podcasts/detras-del-pixel/09-tahutahu</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>TigSourcet</title>
+			<description>Our Devlog of Idearum</description>
+			<link>https://forums.tigsource.com/index.php?topic=60808.msg1331712#msg1331712</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Andrea Sacchi</person>
+			<website>https://mahatmandie.com/</website>
+			<role>Artist, Founder</role>
+		</credit>
+		<credit>
+			<person>Marta Gil</person>
+			<website>http://matlahvi.weebly.com/games.html</website>
+			<role>Game Designer, Level Designer</role>
+		</credit>
+		<credit>
+			<person>Alicia Guardeño</person>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Anna Sophia Bobreková</person>
+			<role>Writer</role>
+		</credit>
+		<credit>
+			<person>Maggie Bigelow</person>
+			<website>http://maggiebigelowmusic.com/MaggieBigelowMusic.com/Home.html</website>
+			<role>Music</role>
+		</credit>
+	</credits>
+</game>
