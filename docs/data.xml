@@ -87,6 +87,15 @@
 			<website>ZoomNet, RTVE</website>
 			<link>http://www.rtve.es/alacarta/videos/zoom-net/zoom-net-amber-case-codemotion-indiemad/4358404/</link>
 		</quote>
+		
+		<quote>
+			<description>We interviewed Marta Gil from Stugan about the game.</description>
+			<name>Idearum's a 3D platform non-violence experience from Stugan</name>
+			<website>Gamereport</website>
+			<link>https://www.gamereactor.eu/news/586483/Idearums+a+3D+platform+non-violence+experience+from+Stugan/</link>
+		</quote>
+
+		
 		<quote>
 			<description>Projects like this augur a great future in the video game scene.</description>
 			<name>Amaya Díaz</name>
@@ -104,7 +113,7 @@
 	<additionals>
 		<additional>
 			<title>TigSource</title>
-			<description>Idearum's devlog</description>
+			<description>Our devlog of Idearum</description>
 			<link>https://forums.tigsource.com/index.php?topic=60808.msg1331712#msg1331712</link>
 		</additional>
 	</additionals>
@@ -113,7 +122,7 @@
 		<credit>
 			<person>Andrea Sacchi</person>
 			<website>https://mahatmandie.com/</website>
-			<role>Artist, programmer, founder</role>
+			<role>Artist, programmer</role>
 		</credit>
 		<credit>
 			<person>Marta Gil</person>
@@ -123,7 +132,7 @@
 		<credit>
 			<person>Anna Sophia Bobreková</person>
 			<website>http://scriptwritersjourney.blogspot.com.es/</website>
-			<role>Writer, founder</role>
+			<role>Writer</role>
 		</credit>
 		<credit>
 			<person>Maggie Bigelow</person>
