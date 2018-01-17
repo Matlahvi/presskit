@@ -39,18 +39,18 @@
 	<description>
 	The main character is Eidos, a soul on their way to reach the perfect city of Atlantis. Eidos must learn about themselves and the world in order to grow and become their own best version. 
 
-	To enter Atlantis, you must pass a series of tests that are based on the ancient Greek philosophy. They take form of various puzzles in a 3D environment inspired by games like Journey. It is an experience of growth and beauty.
+	To enter Atlantis, Eidos must pass a series of tests that are based on the seven liberal arts. They take form of various puzzles in a 3D environment told in minimal, low-poly art and greek patterns. It is an experience of growth and beauty.
 	</description>
 	
 	<history>
-	Tahutahu Studios were born as the union of a few women from all over the world who fell in love with the project of its founder, Andrea Sacchi. Almost all of us with previous experience in the industry and with much desire to start our own project. We are spread across Spain, the Czech Republic and Japan. 
-	With a remote organization, we work hard to create Idearum.  We finally met face to face during the third edition of Stugan workshop in 2017.
+	Tahutahu was born as the union of a four women from across the globe who fell in love with the project of its founder, Andrea Sacchi. Almost all of us with previous experience in the industry and with much desire to start our own project. We are spread across Spain, the Czech Republic and Japan. 
+	With remote organization, we work hard to create Idearum.  We finally met face to face during the third edition of Stugan accelerator progam in 2017. We got to show our progress at events such as Sweden Game Conference and IndieMad in the end of 2017. By the start of 2018, Idearum is exposed at TCC Gallery surrounded by art.
 	</history>
 
 	<features>
 		<feature>
-		Idearum is based on the myths of Plato and other parts of Greek philosophy. While learning about the world around her, Eidos will be able to solve different puzzles. This will give them access to the perfect city of Atlantis.</feature>
-		<feature>We also give importance to psychology and some aspects of mental health, as we believe it is an issue that should be treated with more empathy and regarded as normal in our environment.</feature>
+		Idearum is based on platonic myths and Greek philosophy. While learning about the world around them, Eidos will be able to solve different puzzles. This will give them access to the perfect city of Atlantis.</feature>
+		<feature>We base our actions on three pillars: education, emotion and design. WE believe games, as cultural products, have an impact on the players.</feature>
 		<feature>All the in-game music is done by Maggie Bigelow, who has 10 years of experience as a composer and contributes by creating the perfect atmosphere of Atlantis.</feature>
 	</features>
 	
@@ -59,43 +59,52 @@
 			<name>Idearum Teaser</name>
 			<youtube>l3X1d0PT55g</youtube>
 		</trailer>
-		<trailer>
-			<name>Stugan Application</name>
-			<youtube>3-BAotH8EMk</youtube>
-		</trailer>
+		
 	</trailers>
 	
 	<awards>
 		<award>
 			<description>Selected for Stugan 2017</description>
-			<info>July 2017</info>
+			<info>July 2017. Sweden.</info>
 		</award>
 		
 		<award>
-			<description>Participant "Her Enviorement" 2018</description>
-			<info>January 10~27th TCC Gallery</info>
+			<description>Selected for "Her Enviorement #7", 2018.</description>
+			<info>January 10~27th TCC Gallery, Chicago.</info>
 		</award>
 	</awards>
 	
 	<quotes>
 		<quote>
-			<description>Projects like this augur a great future in the video game scene</description>
-			<name>Stelladia</name>
+			<description>Thoughts on working in games from a broad cross-section of women in the industry.</description>
+			<name>Women in video game development in 2017: a snapshot</name>
+			<website>Lucy O'Brien, IGN</website>
+			<link>http://www.ign.com/articles/2017/12/20/women-in-video-game-development-in-2017-a-snapshot</link>
+		</quote>
+		<quote>
+			<description>Interview for Spanish National TV.</description>
+			<name>Amber Case, CodeMotion and IndieMad</name>
+			<website>ZoomNet, RTVE</website>
+			<link>http://www.rtve.es/alacarta/videos/zoom-net/zoom-net-amber-case-codemotion-indiemad/4358404/</link>
+		</quote>
+		<quote>
+			<description>Projects like this augur a great future in the video game scene.</description>
+			<name>Amaya Díaz</name>
 			<website>La Nave Sonda</website>
 			<link>http://lanavesonda.com/juegos/entrevista-andrea-sacchi-tahutahu-studios/</link>
 		</quote>
 		<quote>
-			<description>Interview in Mexican podcast "Detrás del Pixel</description>
+			<description>Interview for Mexican podcast "Detrás del Pixel"</description>
 			<name>Mario Carballo</name>
-			<website>Detrás del Pixer</website>
+			<website>Detrás del Pixel</website>
 			<link>https://ellugar.co/podcasts/detras-del-pixel/09-tahutahu</link>
 		</quote>
 	</quotes>
 	
 	<additionals>
 		<additional>
-			<title>TigSourcet</title>
-			<description>Our Devlog of Idearum</description>
+			<title>TigSource</title>
+			<description>Idearum's devlog</description>
 			<link>https://forums.tigsource.com/index.php?topic=60808.msg1331712#msg1331712</link>
 		</additional>
 	</additionals>
@@ -104,21 +113,22 @@
 		<credit>
 			<person>Andrea Sacchi</person>
 			<website>https://mahatmandie.com/</website>
-			<role>Artist, Founder</role>
+			<role>Artist, programmer, founder</role>
 		</credit>
 		<credit>
 			<person>Marta Gil</person>
 			<website>http://matlahvi.weebly.com/games.html</website>
-			<role>Game Designer, Level Designer</role>
+			<role>Game designer, level designer</role>
 		</credit>
 		<credit>
 			<person>Anna Sophia Bobreková</person>
-			<role>Writer</role>
+			<website>http://scriptwritersjourney.blogspot.com.es/</website>
+			<role>Writer, founder</role>
 		</credit>
 		<credit>
 			<person>Maggie Bigelow</person>
 			<website>http://maggiebigelowmusic.com/MaggieBigelowMusic.com/Home.html</website>
-			<role>Music</role>
+			<role>Musician and sound designer</role>
 		</credit>
 	</credits>
 </game>
