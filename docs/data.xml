@@ -2,8 +2,8 @@
 
 <game>
 	<title>Idearum</title>
-	<release-date>2018</release-date>
-	<website>https://tahutahustudos.wordpress.com/</website>
+	<release-date>2019</release-date>
+	<website>https://tahutahustudio.site</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<platforms>
@@ -11,30 +11,9 @@
 			<name>PC / Mac</name>
 			<link>http://www.gamesite.com/</link>
 		</platform>
-		<platform>
-			<name>Steam</name>
-			<link>http://www.steampowered.com/</link>
-		</platform>
+	
 	</platforms>
 	
-	<prices>
-		<price>
-			<currency>USD</currency>
-			<value>-</value>
-		</price>
-		<price>
-			<currency>EUR</currency>
-			<value>-</value>
-		</price>
-		<price>
-			<currency>CAD</currency>
-			<value>-</value>
-		</price>				
-		<price>
-			<currency>GBP</currency>
-			<value>-</value>
-		</price>
-	</prices>
 
 	<description>
 	The main character is Eidos, a soul on their way to reach the perfect city of Atlantis. Eidos must learn about themselves and the world in order to grow and become their own best version. 
