@@ -43,6 +43,10 @@
 	
 	<awards>
 		<award>
+			<description>Top 5 Indie Games Sweden Game Conference 2018</description>
+			<info>October 2018. Sweden.</info>
+		</award>
+		<award>
 			<description>Selected for Stugan 2017</description>
 			<info>July 2017. Sweden.</info>
 		</award>
@@ -102,14 +106,7 @@
 			<link>https://ellugar.co/podcasts/detras-del-pixel/09-tahutahu</link>
 		</quote>
 	</quotes>
-	
-	<additionals>
-		<additional>
-			<title>TigSource</title>
-			<description>Our devlog of Idearum</description>
-			<link>https://forums.tigsource.com/index.php?topic=60808.msg1331712#msg1331712</link>
-		</additional>
-	</additionals>
+
 	
 	<credits>
 		<credit>
@@ -132,5 +129,12 @@
 			<website>http://maggiebigelowmusic.com/MaggieBigelowMusic.com/Home.html</website>
 			<role>Musician and sound designer</role>
 		</credit>
+		<credit>
+			<person>Daniela Oliveira</person>
+			<website>http://www.danieladeoliveira.com/</website>
+			<role>UI/UX designer</role>
+		</credit>
+		
+		
 	</credits>
 </game>
